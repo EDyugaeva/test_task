@@ -3,7 +3,6 @@ public class Main {
         // program entry point
 
     }
-
     public static Object[] reversArr(Object[] arr) {
         // create a cycle
         for (int i = 0; i < arr.length / 2; i++) {
