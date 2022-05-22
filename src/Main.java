@@ -16,8 +16,6 @@ public class Main {
         }
 
         return arr; // return changed array
-
     }
-
 
 }
